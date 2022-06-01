@@ -1,5 +1,5 @@
 # Alexander Beloglazov
-![photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Z5bwr3UTmH8pEevGbGCPYPhrEIEDssRTYw&usqp=CAU)
+![photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQabj_9ujjiFW37HAGIhQdEe4YOOrI4koer5g&usqp=CAU)
 
 ## Contacts
 * [Telegram](https://t.me/AlexWhiteEye)
