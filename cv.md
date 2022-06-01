@@ -1,5 +1,5 @@
 # Alexander Beloglazov
-![photo](https://img.freepik.com/free-vector/ab-letter-logo-design_579179-1178.jpg?w=2000)
+![photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Z5bwr3UTmH8pEevGbGCPYPhrEIEDssRTYw&usqp=CAU)
 
 ## Contacts
 * [Telegram](https://t.me/AlexWhiteEye)
