@@ -1,0 +1,99 @@
+.page {
+    max-width: 960px;
+    margin: auto;
+    
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+header {
+    background-color: rgb(231, 227, 227);
+    margin-bottom: 0px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+main {
+    margin-top: 0px;
+}
+
+.footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    background-color: rgb(94, 93, 93);
+
+}
+
+footer div {
+    text-align: center;
+    padding-top: 5px;
+}
+
+.age {
+font-size: 180%;
+color: white;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 0.5fr 2fr;  
+}
+
+.left-part {
+    background-color: rgb(126, 125, 125);
+    color: white;
+}
+
+div p {
+    padding-left: 5px;
+}
+
+.whoiam {
+    padding-left: 30px;
+}
+
+.left-part h2 {
+    padding-left: 25px;  
+}
+
+.nav {
+    display: flex;
+    list-style-type: none;
+}
+.nav li {
+    padding-right: 32px;
+    padding-left: 30px;
+    
+}
+
+section {
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+h1 {
+    padding-left: 30px;
+}
+
+section h2 {
+    background-color: rgb(236, 231, 199);
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.list {
+    padding-left: 20px;
+}
+
+.list-item {
+    padding-top: 10px;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
