@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 .page {
     max-width: 960px;
     margin: auto;
@@ -38,7 +42,7 @@ color: white;
 
 .container {
     display: grid;
-    grid-template-columns: 0.5fr 2fr;  
+    grid-template-columns: 0.5fr 2fr;
 }
 
 .left-part {
@@ -55,7 +59,7 @@ div p {
 }
 
 .left-part h2 {
-    padding-left: 25px;  
+    padding-left: 25px;
 }
 
 .nav {
@@ -65,7 +69,6 @@ div p {
 .nav li {
     padding-right: 32px;
     padding-left: 30px;
-    
 }
 
 section {
@@ -94,5 +97,18 @@ a {
     padding-top: 10px;
     padding-left: 0px;
     margin-left: 0px;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+.textNav {
+    color: black;
+}
+
+.imgRS {
+    height: 50px;
 }
 
